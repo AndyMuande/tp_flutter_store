@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # store
 
 A new Flutter project.
@@ -18,3 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 # store_flutter
 
 <!-- fakestoreapi.com  pour les api fictive -->
+=======
+# tp_flutter_store
+Mon tp flutter "gestion des catégories et l'ajout des produits au panier
+>>>>>>> e52ddfe4926dee513a5e217757bb53bb94ba692f
